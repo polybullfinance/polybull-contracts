@@ -2,7 +2,7 @@
 
 - Website: https://polybull.finance
 - Telegram: https://t.me/polybullfinance
-- Twitter: https://t.me/polybullfinance
+- Twitter: https://twitter.com/polybullfinance
 
 Farming start at Matic block 1408888
 
